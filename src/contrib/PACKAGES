@@ -5,3 +5,11 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: miraculix
+Version: 0.9.10
+Depends: R (>= 3.0), RandomFieldsUtils (>= 0.5)
+Imports: methods, graphics
+LinkingTo: RandomFieldsUtils
+License: GPL (>= 3)
+MD5sum: 5b0e45d339aa0e52881beb5f7e96951c
+NeedsCompilation: yes
