@@ -14,3 +14,11 @@ Suggests: MoBPS
 License: GPL (>= 3)
 MD5sum: 1bc5316215b1e1897c1539b704f7b116
 NeedsCompilation: no
+
+Package: RandomFieldsUtils
+Version: 0.5.9
+Depends: R (>= 3.0)
+Imports: utils, methods
+License: GPL (>= 3)
+MD5sum: f9fdf1dcb249df054ebd2b1e159091ba
+NeedsCompilation: yes
